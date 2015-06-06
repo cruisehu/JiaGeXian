@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:JiaGeXian4iPhone"
+      name = "JiaGeXian4iPhone">
+      <Group
+         location = "group:JiaGeXian4iPhone"
+         name = "JiaGeXian4iPhone">
+         <FileRef
+            location = "group:AppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.xib">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:JiaGeXian4iPhone.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:JiaGeXian4iPhoneTests"
+         name = "JiaGeXian4iPhoneTests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:JiaGeXian4iPhoneTests.m">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:BusinessLogicLayer"
+      name = "BusinessLogicLayer">
+      <Group
+         location = "group:BusinessLogicLayer"
+         name = "BusinessLogicLayer">
+         <FileRef
+            location = "group:BusinessLogicLayer.h">
+         </FileRef>
+         <FileRef
+            location = "group:BusinessLogicLayer.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:BusinessLogicLayer.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:BusinessLogicLayerTests"
+         name = "BusinessLogicLayerTests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
